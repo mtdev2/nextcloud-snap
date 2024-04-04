@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Test driver
-gem 'capybara'
+gem 'capybara', '>= 3.33.0'
 
 # Webdriver for chrome headless
 gem 'selenium-webdriver'
